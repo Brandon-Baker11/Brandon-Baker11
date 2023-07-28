@@ -2,7 +2,7 @@
 ## 💻 Information Technology Projects:
 - Active Directory
   - Active Directory: Configuration of a Domain
-  - [Active Directory: Configuration of logon scripts using Active Directory]([url](https://github.com/Brandon-Baker11/Configuring-an-Active-Directory-logon-script))
+  [- Active Directory: Configuration of logon scripts using Active Directory]([url](https://github.com/Brandon-Baker11/Configuring-an-Active-Directory-logon-script))
   - Active Directory: Implementation of network share folders
 
 <!---
