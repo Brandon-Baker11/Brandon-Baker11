@@ -5,7 +5,7 @@
   - Active Directory: Configuration of a Domain
 --->
   - [Active Directory: Configuration of logon scripts using Active Directory](https://github.com/Brandon-Baker11/Configuring-an-Active-Directory-logon-script)
-  - Active Directory: Implementation of Home Folders
+  - [Active Directory: Implementation of Home Folders](https://github.com/Brandon-Baker11/Creating-a-Home-Folder)
 
 <!---
 Brandon-Baker11/Brandon-Baker11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
