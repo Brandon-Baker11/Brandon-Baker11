@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Brandon, an [IT professional](https://www.linkedin.com/in/brandon-baker-402429231/)
 ## 💻 Information Technology Projects:
 - Active Directory
-  - [Active Directory: Configuration of a Domain](https://github.com/Brandon-Baker11/Configuring-Active-Directory/blob/main/README.md)
+  - [Active Directory: Configuration of a Domain](https://github.com/Brandon-Baker11/Configuring-Active-Directory)
   - [Active Directory: Configuration of logon scripts using Active Directory](https://github.com/Brandon-Baker11/Configuring-an-Active-Directory-logon-script)
   - [Active Directory: Implementation of Home Folders](https://github.com/Brandon-Baker11/Creating-a-Home-Folder)
 
