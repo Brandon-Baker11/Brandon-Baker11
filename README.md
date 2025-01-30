@@ -10,7 +10,7 @@
   - [Microsoft Intune: Deploying applications using Intune](https://github.com/Brandon-Baker11/Deploy-Applications-Using-Microsoft-Intune)
 
 - PowerShell
-  - Check-PCHealth (Utitlity that displays a remote machines statistics)
+  - [Check-PCHealth (Utitlity that displays a remote machines statistics)](https://github.com/Brandon-Baker11/Check-PCHealth/blob/main/README.md)
 <!---
 Brandon-Baker11/Brandon-Baker11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
