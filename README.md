@@ -11,6 +11,7 @@
 
 - PowerShell
   - [Check-PCHealth (Utitlity that displays a remote machines statistics)](https://github.com/Brandon-Baker11/Check-PCHealth/blob/main/README.md)
+  - [Recover-Drive (Tool that will unlock a drive encrypted with BitLocker)](https://github.com/Brandon-Baker11/Recover-Drive)
 <!---
 Brandon-Baker11/Brandon-Baker11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
