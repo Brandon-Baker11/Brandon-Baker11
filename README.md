@@ -13,7 +13,7 @@
   - [Check-PCHealth (Utitlity that displays a remote machines statistics)](https://github.com/Brandon-Baker11/Check-PCHealth/blob/main/README.md)
   - [Recover-Drive (Tool that will unlock a drive encrypted with BitLocker)](https://github.com/Brandon-Baker11/Recover-Drive)
   - [Map-NetShare (Interactive tool that maps network shared drive from the terminal)](https://github.com/Brandon-Baker11/Map-NetShare)
-  - Sort-Folder (Tool that will clean your Downloads folder and distribute files to their rightful place)
+  - [Sort-Folder (Tool that will clean your Downloads folder and distribute files to their rightful place)](https://github.com/Brandon-Baker11/Sort-Folder)
 <!---
 Brandon-Baker11/Brandon-Baker11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
