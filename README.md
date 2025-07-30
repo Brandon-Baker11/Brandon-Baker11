@@ -4,10 +4,9 @@
   - [Active Directory: Homelab Environment](https://github.com/Brandon-Baker11/Configuring-Active-Directory)
   - [Active Directory: Configuration of logon scripts using Active Directory](https://github.com/Brandon-Baker11/Configuring-an-Active-Directory-logon-script)
   - [Active Directory: Implementation of Home Folders](https://github.com/Brandon-Baker11/Creating-a-Home-Folder)
- 
-- Microsoft 365
-  - [Windows Autopilot: Deploying a Windows device with Autopilot](https://github.com/Brandon-Baker11/Configuring-a-Device-for-Autopilot-Deployment)
-  - [Microsoft Intune: Deploying applications using Intune](https://github.com/Brandon-Baker11/Deploy-Applications-Using-Microsoft-Intune)
+
+- Microsoft Azure
+  - [Managing Subscriptions with RBAC](https://github.com/Brandon-Baker11/Configuring-Active-Directory/blob/main/Azure-Labs/Subscription-and-RBAC-Management.md)
 
 - PowerShell
   - [Check-PCHealth (Utitlity that displays a remote machines statistics)](https://github.com/Brandon-Baker11/Check-PCHealth/blob/main/README.md)
