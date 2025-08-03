@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Brandon, an [IT professional](https://www.linkedin.com/in/brandon-baker-402429231/)
 ## 💻 Information Technology Projects:
-- Active Directory
+- 👨‍💻 Active Directory
   - [Active Directory: Homelab Environment](https://github.com/Brandon-Baker11/Configuring-Active-Directory)
   - [Active Directory: Configuration of logon scripts using Active Directory](https://github.com/Brandon-Baker11/Configuring-an-Active-Directory-logon-script)
   - [Active Directory: Implementation of Home Folders](https://github.com/Brandon-Baker11/Creating-a-Home-Folder)
 
-- Microsoft Azure
+- ☁️ Microsoft Azure
   - [Managing Subscriptions with RBAC](https://github.com/Brandon-Baker11/Configuring-Active-Directory/blob/main/Azure-Labs/Subscription-and-RBAC-Management.md)
 
-- PowerShell
+- 🤖 PowerShell
   - [Check-PCHealth (Utitlity that displays a remote machines statistics)](https://github.com/Brandon-Baker11/Check-PCHealth/blob/main/README.md)
   - [Recover-Drive (Tool that will unlock a drive encrypted with BitLocker)](https://github.com/Brandon-Baker11/Recover-Drive)
   - [Map-NetShare (Interactive tool that maps network shared drive from the terminal)](https://github.com/Brandon-Baker11/Map-NetShare)
