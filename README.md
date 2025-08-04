@@ -7,6 +7,7 @@
 
 ### ☁️ Microsoft Azure
 - [Managing Subscriptions with RBAC](https://github.com/Brandon-Baker11/Configuring-Active-Directory/blob/main/Azure-Labs/Subscription-and-RBAC-Management.md)
+- [Configuring a Hybrid Azure Environment With Microsoft Entra Connect](https://github.com/Brandon-Baker11/Configuring-Active-Directory/blob/main/Docs/Configuring-MS-EntraID-Connect.md)
 
 ### 🤖 PowerShell
 - [Check-PCHealth (Utitlity that displays a remote machines statistics)](https://github.com/Brandon-Baker11/Check-PCHealth/blob/main/README.md)
