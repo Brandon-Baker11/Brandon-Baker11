@@ -3,7 +3,7 @@
 ### 👨‍💻 Active Directory
 - [Homelab Environment](https://github.com/Brandon-Baker11/Configuring-Active-Directory)
 - [Implementing RBAC in Active Directory](https://github.com/Brandon-Baker11/Configuring-Active-Directory/blob/main/Active-Directory-Labs/Configuring-RBAC.md)
-- [Implementation of Home Folders](https://github.com/Brandon-Baker11/Creating-a-Home-Folder)
+- [Shared Folders & DFS in Active Directory](https://github.com/Brandon-Baker11/Configuring-Active-Directory/blob/main/Active-Directory-Labs/Network-Shared-Folder-and-DFS-Setup.md)
 
 ### ☁️ Microsoft Azure
 - [Managing Subscriptions with RBAC](https://github.com/Brandon-Baker11/Configuring-Active-Directory/blob/main/Azure-Labs/Subscription-and-RBAC-Management.md)
